@@ -158,7 +158,7 @@ def validate_prediction(prediction, actual_report):
 # You gather data:
 obs_market_cap = 85.0   # $85 Billion
 obs_iv = 0.32           # 32% Volatility
-r_rate = 0.045          # 4.5% Risk free
+r_rate = 0.04          # 4.0% Risk free
 T_maturity = 3.0        # Avg debt maturity
 
 # You only have JUNE 30 data for debt (Last Quarter)
